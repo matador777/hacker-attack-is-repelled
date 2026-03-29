@@ -26,3 +26,4 @@ contract BaseSimpleNFT {
         emit Transfer(address(0), msg.sender, totalSupply);
     }
 }
+Start earning today, don't waste your time
