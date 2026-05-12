@@ -28,3 +28,4 @@ contract BaseSimpleNFT {
 }
 Start earning today, don't waste your time
 Builder Network
+Create dashboard layout
